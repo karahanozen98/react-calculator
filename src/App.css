@@ -1,0 +1,40 @@
+
+*{
+  margin:0;
+}
+.App {
+  text-align: center;
+  position: relative;
+  background-color: #e3e6f0;
+  width: 100%;
+}
+
+.App-logo {
+  height: 10vmin;
+}
+.App-header {
+  color: white;
+  background-color: #282c34;
+  padding: 15px;
+}
+.App-header > h1{
+  font-size: 2em;
+  padding: 5px;
+}
+
+.App-body {
+  text-align: center;
+  background-color: #e3e6f0;
+  font-size: 30px;
+  padding: 10px;
+}
+.App-footer {
+  position: absolute;
+  padding: 25px;
+  font-size: 1em;
+  color: white;
+  background-color: #282c34;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
